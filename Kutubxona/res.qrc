@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="ism">
+    <file>G:/rasmlar/school_24dp_BB271A_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>G:/rasmlar/library_books_24dp_EA3323_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>images/account_circle.png</file>
+    <file>images/books_grey.png</file>
+    <file>images/books_white.png</file>
+    <file>images/burger_menu.png</file>
+    <file>images/burger_menu_w.png</file>
+    <file>images/close.png</file>
+    <file>images/group_grey.png</file>
+    <file>images/group_white.png</file>
+    <file>images/home.png</file>
+    <file>images/home_grey.png</file>
+    <file>images/hourglass_grey.png</file>
+    <file>images/hourglass_white.png</file>
+    <file>images/student_grey.png</file>
+    <file>images/student_white.png</file>
+    <file>images/taken_book_black.png</file>
+    <file>images/taken_book_white.png</file>
+  </qresource>
+</RCC>
